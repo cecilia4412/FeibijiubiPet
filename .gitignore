@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+.build_tools/
+*.pyc
+pet_config.json
